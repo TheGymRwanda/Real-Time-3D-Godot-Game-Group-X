@@ -56,3 +56,20 @@ Complete all 3 laps in the shortest time possible while staying on track and min
 ## Illustration
 <img width="1058" height="538" alt="image" src="https://github.com/user-attachments/assets/798182d7-3ed3-47b3-a3e9-c9dbc11caa8b" />
 
+
+
+---
+## Deliverables
+
+The final submission must contain a complete and runnable Godot project with the following structure and elements.
+- The project must open and run directly from Level.tscn, which is the main entry scene.
+- The root project must contain exactly four main folders: Assets, Global, Scenes, and Scripts.
+- The Assets folder contains the provided resources and must keep its internal organization (audios, fonts, sprites, icons). No external assets are allowed beyond the ones provided.
+- The Global folder must contain a global.gd script used for shared variables such as score, laps, or persistent data.
+- The Scenes folder must contain all .tscn scene files used in the project. This includes at minimum the Level scene and any UI or reusable object scenes (car, coin, etc.).
+- The Scripts folder must contain all .gd scripts attached to scenes or nodes. Scripts must follow GDScript naming conventions (PascalCase for nodes, UPPERCASE for constants, snake_case for variables and functions).
+
+## Submission
+- link to itch.io deployed game, which should be named “groupname-godot-3d.”
+- link to public GitHub repository, which should be named “Real-Time-3D-Godot-Game-Group-[X or Y]”
+
